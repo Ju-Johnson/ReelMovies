@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movies"
+        android:icon="@drawable/ic_local_movies_black_24dp"
+        android:title="@string/nav_movies" />
+
+    <item
+        android:id="@+id/navigation_theaters"
+        android:icon="@drawable/ic_local_play_black_24dp"
+        android:title="@string/nav_theaters" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/nav_account" />
+
+</menu>
